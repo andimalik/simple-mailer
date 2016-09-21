@@ -5,7 +5,7 @@ import javax.mail.MessagingException;
 /**
  * The SimpleMailer object used for sending a simple e-mail message.
  * 
- * @author Andi Malik
+ * @author Andi Malik andi.malik.notifications@gmail.com
  * @since 2016-09-21
  */
 public interface SimpleMailer {

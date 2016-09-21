@@ -17,7 +17,7 @@ import com.andimalik.components.impl.SimpleMailerImpl;
 /**
  * SimpleMailer object factory.
  * 
- * @author Andi Malik
+ * @author Andi Malik andi.malik.notifications@gmail.com
  * @since 2016-09-21
  */
 public class SimpleMailerFactory {

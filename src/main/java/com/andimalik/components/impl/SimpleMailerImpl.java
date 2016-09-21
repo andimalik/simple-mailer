@@ -16,7 +16,7 @@ import com.andimalik.components.SimpleMailer;
 /**
  * Implementation of SimpleMailer interface.
  * 
- * @author Andi Malik
+ * @author Andi Malik andi.malik.notifications@gmail.com
  * @since 2016-09-21
  */
 public class SimpleMailerImpl implements SimpleMailer {
